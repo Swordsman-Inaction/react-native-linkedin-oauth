@@ -1,6 +1,6 @@
 {
 	"name": "react-native-linkedin-oauth",
-	"version": "0.5",
+	"version": "0.5.0",
 	"description": "LinkedIn OAuth Component for React Native",
 	"repository": {
 		"type": "git",
