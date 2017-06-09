@@ -1,0 +1,21 @@
+{
+	"name": "react-native-linkedin-oauth",
+	"version": "0.5",
+	"description": "LinkedIn OAuth Component for React Native",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Swordsman-Inaction/react-native-linkedin-oauth"
+	},
+	"main": "index.js",
+	"typings": "index.d.ts",
+	"keywords": [
+		"react-native",
+		"react-native-linkedin-oauth",
+		"linkedin",
+		"oauth"
+	],
+	"author": {
+		"name": "Swordsman-Inaction"
+	},
+	"license": "MIT"
+}
