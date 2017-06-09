@@ -14,6 +14,12 @@ According to the [official documentation of Mobile SDK](https://developer.linked
 If you just want Mobile SDK Integration, check [react-native-linkedin-login](https://github.com/jodybrewster/react-native-linkedin-login) or [react-native-linkedin-sdk](https://github.com/joonhocho/react-native-linkedin-sdk).
 
 
+## Installation
+
+`yarn add react-native-linkedin-oauth`
+
+Yes, that simple!
+
 ## Documentation
 
 `LinkedInOAuth` is the only component, it will show a webview which let user to login and grant access to your app, the access token will be passed through the callback. Check [here](https://developer.linkedin.com/docs/oauth2) to see the OAuth 2.0 process.
