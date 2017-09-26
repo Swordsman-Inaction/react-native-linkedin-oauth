@@ -52,3 +52,6 @@ Name			| Type
 ----			| ----
 type			| string
 message		| string
+
+## Alternatives
++* [react-native-linkedin](https://github.com/xcarpentier/react-native-linkedin)
