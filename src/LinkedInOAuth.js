@@ -77,7 +77,9 @@ class LinkedInOAuth extends React.Component {
                 return;
             }
 
-            this.requestToken(params.code);
+            onSuccess({
+                accessToken: params.code,
+            });
         }
     }
 
