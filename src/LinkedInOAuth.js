@@ -2,7 +2,7 @@ import React from 'react';
 import {
     View,
     WebView,
-} from 'react-native';
+} from 'react-native-webview';
 
 import { AUTHORIZATION_URL, ACCESSTOKEN_URL, USER_CANCEL_TYPES } from './Consts'
 import { objectToParams, paramsToObject } from './Util'
